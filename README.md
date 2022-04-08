@@ -2,7 +2,7 @@
 
 I'm @MariusPistoresi29. I am a beginner developer, here some info about me
 - 👀 I’m interested in [Java](https://www.oracle.com/java/)
-- I am know Java, C++ and Python.
+- I know Java, C++ and Python.
 #### 📫 How to reach me
 - Discord: [`Marius#7346`](https://discord.com/)
 - Email: [`Click To Mail!`](mailto:marius.pistoresi@gmail.com) or copy **`marius.pistoresi@gmail.com`**
